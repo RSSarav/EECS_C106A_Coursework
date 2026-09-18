@@ -1,0 +1,1 @@
+/home/user/ros_workspaces/lab1/build/my_chatter_msgs/rosidl_generator_py/my_chatter_msgs/_my_chatter_msgs_s.ep.rosidl_typesupport_c.c

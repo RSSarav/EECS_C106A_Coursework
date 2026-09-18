@@ -1,0 +1,1 @@
+/home/user/ros_workspaces/lab1/build/my_chatter_msgs/ament_cmake_environment_hooks/local_setup.zsh

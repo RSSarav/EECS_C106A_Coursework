@@ -1,0 +1,1 @@
+/home/user/ros_workspaces/lab1/build/my_chatter_msgs/rosidl_generator_c/my_chatter_msgs/msg/rosidl_generator_c__visibility_control.h

@@ -1,0 +1,233 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"childIndexes" : 
+					[
+						1
+					],
+					"hasInstallRule" : true,
+					"jsonFile" : "directory-.-fc1b55f388c4a4447697.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.12"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						5,
+						6,
+						7,
+						8,
+						9,
+						10,
+						11,
+						12,
+						13,
+						14,
+						15,
+						16,
+						17
+					]
+				},
+				{
+					"build" : "my_chatter_msgs__py",
+					"jsonFile" : "directory-my_chatter_msgs__py-1fa0cd5828c2ad6bbb7e.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.12"
+					},
+					"parentIndex" : 0,
+					"projectIndex" : 0,
+					"source" : "/home/user/ros_workspaces/lab1/build/my_chatter_msgs/my_chatter_msgs__py",
+					"targetIndexes" : 
+					[
+						4
+					]
+				}
+			],
+			"name" : "",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0,
+						1
+					],
+					"name" : "my_chatter_msgs",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5,
+						6,
+						7,
+						8,
+						9,
+						10,
+						11,
+						12,
+						13,
+						14,
+						15,
+						16,
+						17
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "ament_cmake_python_build_my_chatter_msgs_egg::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-ament_cmake_python_build_my_chatter_msgs_egg-0dc7d26b6f11a44659ba.json",
+					"name" : "ament_cmake_python_build_my_chatter_msgs_egg",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "ament_cmake_python_symlink_my_chatter_msgs::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-ament_cmake_python_symlink_my_chatter_msgs-5072891dc4ff944c84a2.json",
+					"name" : "ament_cmake_python_symlink_my_chatter_msgs",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "my_chatter_msgs::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-my_chatter_msgs-ea42cffb3ffec107a80c.json",
+					"name" : "my_chatter_msgs",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "my_chatter_msgs__cpp::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-my_chatter_msgs__cpp-2094d3bc6662b58ed896.json",
+					"name" : "my_chatter_msgs__cpp",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 1,
+					"id" : "my_chatter_msgs__py::@b58895f993f1f1ed4eca",
+					"jsonFile" : "target-my_chatter_msgs__py-de4aada568310c7dcc1c.json",
+					"name" : "my_chatter_msgs__py",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "my_chatter_msgs__rosidl_generator_c::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-my_chatter_msgs__rosidl_generator_c-7dde355fc18773963b5a.json",
+					"name" : "my_chatter_msgs__rosidl_generator_c",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "my_chatter_msgs__rosidl_generator_py::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-my_chatter_msgs__rosidl_generator_py-535b0ca6eb332e65504b.json",
+					"name" : "my_chatter_msgs__rosidl_generator_py",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "my_chatter_msgs__rosidl_typesupport_c::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-my_chatter_msgs__rosidl_typesupport_c-1715af69cb65fa8cd0be.json",
+					"name" : "my_chatter_msgs__rosidl_typesupport_c",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "my_chatter_msgs__rosidl_typesupport_c__pyext::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-my_chatter_msgs__rosidl_typesupport_c__pyext-5dd90dc9bf0e77be2801.json",
+					"name" : "my_chatter_msgs__rosidl_typesupport_c__pyext",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "my_chatter_msgs__rosidl_typesupport_cpp::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-my_chatter_msgs__rosidl_typesupport_cpp-92607d0af3755ffe7d6a.json",
+					"name" : "my_chatter_msgs__rosidl_typesupport_cpp",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "my_chatter_msgs__rosidl_typesupport_fastrtps_c::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-my_chatter_msgs__rosidl_typesupport_fastrtps_c-fad7217e4853356538f1.json",
+					"name" : "my_chatter_msgs__rosidl_typesupport_fastrtps_c",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "my_chatter_msgs__rosidl_typesupport_fastrtps_c__pyext::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-my_chatter_msgs__rosidl_typesupport_fastrtps_c__pyext-c354633a2387ce774e03.json",
+					"name" : "my_chatter_msgs__rosidl_typesupport_fastrtps_c__pyext",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "my_chatter_msgs__rosidl_typesupport_fastrtps_cpp::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-my_chatter_msgs__rosidl_typesupport_fastrtps_cpp-52a56403a954360b84e5.json",
+					"name" : "my_chatter_msgs__rosidl_typesupport_fastrtps_cpp",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "my_chatter_msgs__rosidl_typesupport_introspection_c::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-my_chatter_msgs__rosidl_typesupport_introspection_c-23467db58a17f39ac02d.json",
+					"name" : "my_chatter_msgs__rosidl_typesupport_introspection_c",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "my_chatter_msgs__rosidl_typesupport_introspection_c__pyext::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-my_chatter_msgs__rosidl_typesupport_introspection_c__pyext-04fd413f634a48801050.json",
+					"name" : "my_chatter_msgs__rosidl_typesupport_introspection_c__pyext",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "my_chatter_msgs__rosidl_typesupport_introspection_cpp::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-my_chatter_msgs__rosidl_typesupport_introspection_cpp-49c90a16a9dd3be35c87.json",
+					"name" : "my_chatter_msgs__rosidl_typesupport_introspection_cpp",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "my_chatter_msgs_uninstall::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-my_chatter_msgs_uninstall-82d33165be86003d756b.json",
+					"name" : "my_chatter_msgs_uninstall",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "uninstall::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-uninstall-f1a40469723138b179ea.json",
+					"name" : "uninstall",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "/home/user/ros_workspaces/lab1/build/my_chatter_msgs",
+		"source" : "/home/user/ros_workspaces/lab1/src/my_chatter_msgs"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 3
+	}
+}

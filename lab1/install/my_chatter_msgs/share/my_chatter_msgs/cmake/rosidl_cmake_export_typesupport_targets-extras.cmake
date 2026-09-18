@@ -1,0 +1,1 @@
+/home/user/ros_workspaces/lab1/build/my_chatter_msgs/rosidl_cmake/rosidl_cmake_export_typesupport_targets-extras.cmake

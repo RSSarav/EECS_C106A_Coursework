@@ -1,0 +1,1 @@
+/home/user/ros_workspaces/lab1/build/my_chatter_msgs/rosidl_generator_cpp/my_chatter_msgs/msg/detail/timestamp_string__type_support.hpp

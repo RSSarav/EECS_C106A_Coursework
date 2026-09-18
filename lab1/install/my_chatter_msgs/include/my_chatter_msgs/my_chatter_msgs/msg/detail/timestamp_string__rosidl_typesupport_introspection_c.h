@@ -1,0 +1,1 @@
+/home/user/ros_workspaces/lab1/build/my_chatter_msgs/rosidl_typesupport_introspection_c/my_chatter_msgs/msg/detail/timestamp_string__rosidl_typesupport_introspection_c.h

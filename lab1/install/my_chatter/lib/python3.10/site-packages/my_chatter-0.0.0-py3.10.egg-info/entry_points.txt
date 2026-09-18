@@ -1,0 +1,3 @@
+[console_scripts]
+my_listener = my_chatter.Subscriber:main
+my_talker = my_chatter.Publisher:main
